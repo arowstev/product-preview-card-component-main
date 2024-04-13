@@ -26,12 +26,12 @@
  }
  
  .container-image{
-  height: 400px;
+  height: 450px;
   width: 300px;
  }
  
  .container-words{
-  height: 400px;
+  height: 450px;
   width: 300px;
   padding: 20px 40px;
   background-color: hsl(0, 0%, 100%);
